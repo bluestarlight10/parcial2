@@ -1,0 +1,113 @@
+
+.site{
+    padding-top: 3%;
+    padding-left: 4%;
+    padding-right: 4%;
+    background-color: #F2F9FE;
+    font-family: "Poppins", sans-serif;
+
+}
+.principal{
+    display: flex;
+    
+}
+.container{
+    margin-right: 250px;
+}
+ul{
+    display: flex;
+    align-content: center;
+}
+ul li{
+    list-style: none;
+    padding-right:40px ;
+
+}
+.cabecera-text{
+    
+    padding-right:40px ;
+    color: #909193;
+}
+.about
+{
+    color: #111729;
+}
+
+.container-dos{
+    display: flex;
+}
+.submit{
+    height: 40px;
+    background-color: #2A4DD0;
+    margin-right: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    transition: all 0.2s;
+    cursor: -webkit-grabbing;
+    border: none;
+}
+.cajaderecha{
+    width: 48.8vw;
+    margin-top: 80px;
+    margin-right: 100px;
+
+}
+p{
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: #223344;
+}
+h1{
+    font-size: 60px;
+    color: #223344;
+    margin-bottom: 30px;
+}
+.fastext{
+    font-size: 16px;
+    margin-bottom: 18px;
+    color: #909193;
+    line-height: 30px;
+}
+.text-bot{
+    display: flex;
+    align-items: center;
+    margin-bottom: 19px;
+}
+
+.get-div{
+    margin-top: 23px;
+    color: #2A4DD0;
+    font-size: 18px;
+
+}
+.downtext{
+    margin: 0px;
+    display: flex;
+    font-size: 14px;
+    color: #223344;
+}
+.bot{
+    display: flex;
+    margin-right: 15px;
+    font-size: 14px;
+    align-items: center;
+    color: #223344;
+}
+.bot2{
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+
+}
+
+.banner{
+    margin-top: 80px;
+height: 500px;
+    width: 550px;
+}
+
+
